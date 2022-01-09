@@ -5,7 +5,7 @@ From the: [SkillFactory DataScience Course](https://lms.skillfactory.ru/courses/
 
 ## Проекты
 
-* [Проект 0: Игра: Угадай число](https://github.com/BorisOst/sf_data_science/blob/main/game_v3.py)
+* [Проект 0: Игра: Угадай число](https://github.com/BorisOst/sf_data_science/tree/main/project_0)
 * [Проект 1: ______](____)
 * [Проект 2: ______](____)
 
